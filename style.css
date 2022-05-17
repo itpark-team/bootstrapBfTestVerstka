@@ -1,0 +1,74 @@
+body, .content{
+    background-color: #F5FAF9;
+}
+
+/* city START */
+.city-text{
+    color: #9BB2AE;
+}
+/* city FINISH */
+
+/* products START */
+.products-text{
+    color: #354B47;
+    font-weight: bold;
+    font-size: large;
+}
+
+.products-bell{
+    background-image: url(img/icon-bell.svg);
+    width: 30px;
+    height: 30px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+/* products FINISH */
+
+/* search START */
+.search-row{
+    padding-left: 10px;
+    padding-right: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+.search-text{
+    color: #C0CCCA;
+    background-image: url(img/icon-search.png);
+    background-size: 20px 20px;
+    background-position: 10px 15px;
+    background-repeat: no-repeat;
+    width: 100%;
+    border: none;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+}
+/* search FINISH */
+
+/* prod-cards START*/
+.prod-card{
+    background-color: #ffffff;
+    width: 48%;
+    border-radius: 10px;
+    height: 70px;
+    box-shadow: 4px 5px 15px -7px #606060;
+}
+
+.prod-card-title{
+    color: #354B47;
+    font-size: medium;
+}
+
+.prod-card-amount{
+    color: #9BB2AE;
+    font-size: small;
+}
+
+.prod-card1{
+    background-image: url(img/icon-apple.svg);
+    background-size: 40px 40px;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+}
+/* prod-cards FINISH*/
